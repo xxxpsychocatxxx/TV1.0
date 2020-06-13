@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="mdf1" tvg-logo="http://www.mdf1.de/img/logo_mdf1.png" group-title="Local",mdf1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="kulturmd" tvg-logo="" group-title="Local",kulturmd
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="ok-magdeburg" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title=" group-title="Local",ok-magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="Kodinerds" tvg-logo="" group-title="Local",Kodinerds
+https://github.com/jnk22/kodinerds-iptv/raw/master/iptv/clean/clean.m3u
+#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="123tvnow" tvg-logo="" group-title="Local",123tvnow
+https://github.com/Tempest0580/xml/raw/master/123tvnow.m3u
+#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="PlutoTV" tvg-logo="" group-title="Local",PlutoTV
+https://github.com/Tempest0580/xml/raw/master/pluto.m3u
+#EXTINF:-1 tvg-chno="7" tvg-id="" tvg-name="cccloud" tvg-logo="" group-title="Local",cccloud
+http://ccld.io/atom.m3u
+#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name="Fluxus" tvg-logo="" group-title="Local",Fluxus
+https://pastebin.com/raw/ZzGTySZE
