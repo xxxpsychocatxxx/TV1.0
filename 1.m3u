@@ -45,6 +45,8 @@ http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-logo=".", #Dabei TV 
 https://streaming.magenta-musik-360.de/hls/live/2005925/magentamusik4/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" group-title="",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" group-title="",RTL Nitro
 http://188.35.9.5:10020/stolen/479d/hot.dll
 #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-language="German" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" group-title="",RTL Plus
@@ -55,8 +57,6 @@ http://5.135.92.133:52841/out/u/119_1.m3u8
 http://5.135.92.133:52841/out/u/123_1.m3u8
 #EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="",Prosieben
 http://188.35.9.5:10020/stolen/496w/hot.dll
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="",Prosieben
-https://wer1.wertvlive.com/d1/video.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" group-title="",Prosieben Maxx
 http://188.35.9.5:10020/stolen/500w/hot.dll
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV
